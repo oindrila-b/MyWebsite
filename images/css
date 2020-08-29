@@ -1,0 +1,12 @@
+#img
+{
+    margin: 10px;
+    padding: 0;
+    position: relative;
+    align-content: center;
+    border: 2px solid violet;
+    border-radius: 25px;
+    display: inline-block;
+    
+    
+}
